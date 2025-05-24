@@ -1,1 +1,3 @@
-# mushroom_clasiification
+# Mushroom Classification Using Logistic Regression, Random Forest, and Gradient Boosting
+
+This repository presents an end-to-end analysis and classification of mushroom edibility, aiming to predict whether a mushroom is edible or poisonous based on its physical characteristics. The project explores various machine learning models—including Logistic Regression, Random Forest, XGBoost, CatBoost, and Gradient Boosting—to compare their performance in terms of accuracy, generalization, and feature importance. The analysis includes comprehensive data preprocessing, model evaluation, and feature selection to ensure robust and interpretable results.
